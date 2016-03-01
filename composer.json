@@ -1,0 +1,16 @@
+{
+  "name": "braddle/doctrine-inheritance-transitioning",
+  "description": "Example application for a blog post on transitioning doctrine entities that inherit from the same abstract entity class.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Bradley",
+      "email": "mark@mark-bradley.net"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "2.6.x-dev",
+    "behat/behat": "3.1.x-dev"
+  }
+}
