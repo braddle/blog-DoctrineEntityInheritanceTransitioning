@@ -1,0 +1,4 @@
+suites:
+    shop_suite:
+        namespace: Braddle\Shop
+        psr4_prefix: Braddle\Shop
